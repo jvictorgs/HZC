@@ -424,3 +424,13 @@ body {
     grid-area: secao-produtos;
   }
 }
+
+/* Layoult mobile picos */
+
+.carta__imagem--desktop {
+  display: none;
+}
+
+.cartao__imagem--mobile-picos {
+  display: flex;
+}

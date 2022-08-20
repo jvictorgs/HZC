@@ -3,7 +3,7 @@
 <h2 align="center">Status do Projeto</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green">
+<img src="https://img.shields.io/badge/STATUS-FINALIZADO-green">
 </p>
 
 <h2 align="center">Descrição do Projeto</h2>

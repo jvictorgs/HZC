@@ -8,7 +8,7 @@
 
 <h2 align="center">Descrição do Projeto</h2>
 
-<p align="center">O HZC foi criado com o intuito de aperfeiçar meus conhecimentos em CSS e melhorar minhas habilidades em Grid e Flexbox, o site demonstra alguns vídeos e produtos para venda. Esse projeto foi produzido para consolidar meus aprendizados no curso de formação front-end.</p>
+<p align="center">O HZC foi criado com o intuito de aperfeiçar meus conhecimentos em CSS e melhorar minhas habilidades em Grid e Flexbox, o site demonstra alguns vídeos e produtos para venda. Esse projeto foi produzido para consolidar meus aprendizados no curso de formação front-end. Obs: No momento o site está para versões mobiles, mais pra frente estarei aplicando responsividade no mesmo para desktops.</p>
 
 <h2 align="center">Links:</h2>
 
@@ -30,7 +30,7 @@
 - ``CSS``
 - ``Media Screen``
 - ``Grid e Flexbox``
-- ``Vercel``
+- ``Mobile-First``
 
 ## Autor
 
